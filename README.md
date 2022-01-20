@@ -7,4 +7,4 @@
 ### 1) Cotton plant disease detection 
 Here in this project I have used transfer learning. I have re trained the VGG-16 
 ### 2) Ranifall Prediction
-Here I used 3 different methods to preduct the rainfal, among them the RandomForestRegressor stood as the bes
+Here I used 3 different methods to predict the rainfall, among them the RandomForestRegressor stood as the bes
